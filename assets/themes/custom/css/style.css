@@ -1,0 +1,114 @@
+/* Override some defaults */
+html, body {
+  background-color: #fff;
+  background-image:url(../images/bg.png);
+  background-position: center center;
+  color: #ccc;
+}
+.brand{
+	margin:20px 0 0;
+	display: block;
+	height: 50px;
+	text-indent: -9999em;
+	position: relative;
+	background: url(../images/bg_title.png) no-repeat;
+	background-position: 0 bottom;
+}
+.brand.page-Home{
+	margin-top:180px;
+	height: 70px;
+	background-position: 0 top;
+}
+.navbar {
+  margin-bottom: 0;
+}
+.navbar .nav{
+	margin: 0 -20px;
+}
+.navbar-inner{
+  background:none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+.navbar .nav .active>a,
+.navbar .nav .active>a:hover{color:#ffffff;text-decoration:none;background-color:#333;padding-top: 12px;border-top: 8px solid #fff;}
+.navbar .nav > li > a{
+	padding:20px 20px 22px;
+	font-size: 40px;
+}
+.container{
+  width: 620px;
+}
+footer {
+  margin-top: 20px;
+  color: #333;
+}
+footer p {
+  text-align: center; /* center align it with the container */
+}
+footer .copyright{
+  background: rgba(255,255,255,0.5);
+  border-radius: 5px;
+  padding: 0 3px;
+}
+h1, h2, h3, h4, h5, h6{
+	color:#eee;
+}
+/*bg*/
+.inner-wrap{
+  background-color: #333;
+  box-shadow: 0 0 0 2px rgba(255,255,255,0.5);
+}
+/* The white background content wrapper */
+.content {
+  background-color: #333;
+  padding: 20px;
+  margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
+}
+
+/* Page header tweaks */
+.page-header {
+  background-color: #333;
+  padding: 10px 20px;
+  margin: -20px -20px 20px;
+  border-color: #666;
+}
+
+.topbar .btn {
+  border: 0;
+}
+
+
+/* tag_box ======================================================== */
+
+.tag_box {
+	list-style:none;
+	margin:0;
+	padding:5px 0 ;
+	overflow:hidden;
+}
+.tag_box li {
+	line-height:28px;
+}
+.tag_box.inline li {
+	float:left;
+}
+.tag_box a {
+	padding: 3px 6px;
+	margin: 2px;
+	background: #eee;
+	color:#005F6B;
+	border-radius: 3px;
+	text-decoration:none;
+}
+.tag_box a span{
+	vertical-align:super;
+	font-size:0.8em;
+}
+.tag_box a.active {
+	background:#57A957;
+	border:1px solid #4C964D;
+	color:#FFF;
+}
+	
