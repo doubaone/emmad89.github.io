@@ -1,3 +1,11 @@
+# doubaone
+
+This Project are Github Pages using for personal homepage. 
+
+Built on 2012.10.23.
+
+It's a present for Emma in the "programmer's day".
+
 # Jekyll-Bootstrap
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
