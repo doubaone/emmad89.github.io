@@ -34,7 +34,7 @@
         <div class="navbar-inner">
           <div class="container">
             <ul class="nav">
-                {% assign pages_list = site.pages | sort:title %}
+                {% assign pages_list = site.pages %}
                 {% assign group = 'custom' %}
                 {% include JB/pages_list %}
             </ul>

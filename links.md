@@ -12,6 +12,6 @@ group: custom
 	<li class="span"><a target="_blank" href="http://weibo.com/doubaoorz"><img src="{{ ASSET_PATH }}/custom/images/social-icons/weibo.png" title="Sina Weibo" alt="Sina Weibo"></a></li>
 	<li class="span"><a target="_blank" href="http://www.facebook.com/emma.deng.75"><img src="{{ ASSET_PATH }}/custom/images/social-icons/facebook.png" title="facebook" alt="facebook"></a></li>
 	<li class="span"><a target="_blank" href="http://twitter.com/emmadeng08"><img src="{{ ASSET_PATH }}/custom/images/social-icons/twitter.png" title="Twitter" alt="Twitter"></a></li>
-	<li class="span"><a target="_blank" href="cn.linkedin.com/pub/emma-deng/15/40/548"><img src="{{ ASSET_PATH }}/custom/images/social-icons/linkedin.png" title="Linkedin" alt="Linkedin"></a></li>
+	<li class="span"><a target="_blank" href="http://cn.linkedin.com/pub/emma-deng/15/40/548"><img src="{{ ASSET_PATH }}/custom/images/social-icons/linkedin.png" title="Linkedin" alt="Linkedin"></a></li>
 </ul>
 </div>
