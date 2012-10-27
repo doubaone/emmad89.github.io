@@ -8,6 +8,7 @@ html, body {
     background-color: #fff;
     background-image:url(../images/bg.png);
     background-position: center 0;
+    background-attachment: fixed;
     color: #ccc;
 }
 .brand{
@@ -72,7 +73,8 @@ html, body {
 .navbar .nav{
     background-color: #fff;
     background-image:url(../images/bg.png);
-    background-position: 102px -88px;
+    background-position: center 0;
+    background-attachment: fixed;
 }
 .container{
   width: 620px;
