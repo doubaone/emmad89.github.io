@@ -13,14 +13,14 @@ html, body {
 .brand{
     position: absolute;
     width: 300px;
-    bottom:5px;
-	height: 39px;
+    bottom:3px;
+	height: 40px;
 	text-indent: -9999em;
 	background: url(../images/bg_title.png) no-repeat;
 	background-position: 0 bottom;
 }
 .page-Home .brand{
-	height: 79px;
+	height: 81px;
     width: 620px;
     bottom: 10px;
     background-position: 0 top;
