@@ -1,0 +1,46 @@
+.container{
+    width: 90%;
+    padding: 0 10px;
+}
+.row-fluid>.post-content{
+    width: 100%;
+    float: none;
+}
+.row-fluid>.post-info{
+    width: 100%;
+    float: none;
+    margin-bottom: 20px;
+}
+.page-Home .brand{
+    width: 300px;
+    height: 39px;
+    background-position: 0 bottom;
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    .page-Home .brand{
+        background:transparent url(../images/bg_title.png) no-repeat 0 bottom;
+        -webkit-mask:none;
+    }
+}
+.navbar .nav > li > a{
+    font-size: 30px;
+    padding:10px 10px 11px;
+    -webkit-transition:none;
+       -moz-transition:none;
+         -o-transition:none;
+        -ms-transition:none;
+            transition:none;
+}
+.navbar .nav > li > a:hover,
+.navbar .nav .active>a,
+.navbar .nav .active>a:hover{
+    padding-top: 6px;
+    margin-top: 4px;
+    background-color: #333;
+}
+.outter-wrap{
+    padding-top: 48px;
+}
+.page-Home .outter-wrap{
+    padding-top: 175px;
+}

@@ -12,16 +12,17 @@ html, body {
 }
 .brand{
     position: absolute;
-    width: 450px;
-    bottom:0;
-	height: 32px;
+    width: 300px;
+    bottom:5px;
+	height: 39px;
 	text-indent: -9999em;
 	background: url(../images/bg_title.png) no-repeat;
 	background-position: 0 bottom;
 }
 .page-Home .brand{
-	height: 70px;
+	height: 79px;
     width: 620px;
+    bottom: 10px;
     background-position: 0 top;
 }
 /*for webkit only*/
