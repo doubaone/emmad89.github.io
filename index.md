@@ -14,3 +14,13 @@ My name is Emma, a girl from China who
 Love `eating`
 
 Hate `walking`.
+
+
+
+Dear Shawn...
+
+It's really hard for me to understand the `ROMANCE` of engineer... 
+
+Hugs,
+
+Emma
