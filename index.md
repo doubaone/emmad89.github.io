@@ -5,7 +5,7 @@ tagline: Doubao's Homepage
 ---
 {% include JB/setup %}
 
-<img src="{{ ASSET_PATH }}/custom/images/emma_draw.png" alt="Emma" width="300" height="330" style="margin:0 auto;display:block;" />
+<img src="{{ ASSET_PATH }}custom/images/emma_draw.png" alt="Emma" width="300" height="330" style="margin:0 auto;display:block;" />
 
 ## Who am I?
 
