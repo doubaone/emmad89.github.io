@@ -17,8 +17,6 @@ Hate `walking`.
 
 ---
 
-Message From Emma:
-
 Dear Shawn...
 
 It's really hard for me to understand the `ROMANCE` of engineer... 
